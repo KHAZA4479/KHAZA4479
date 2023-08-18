@@ -19,7 +19,6 @@
 <a href="https://twitter.com/@mohinuddinkhaza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mohinuddinkhaza" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/shaik-khaza-mohinuddin-412225266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shaik-khaza-mohinuddin-412225266" height="30" width="40" /></a>
 <a href="https://instagram.com/khaza__shaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khaza__shaik" height="30" width="40" /></a>
-<a href="mailto:khaza4479@gmail.com" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="khaza4479@gmail.com" height="30" width="40" /></a>
 </p>
 
 
